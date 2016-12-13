@@ -1,0 +1,49 @@
+
+
+.p-nomargin
+{
+    margin-bottom: .5em;
+}
+
+.h4-li
+{
+    margin-bottom: .2em;
+    font-weight: 300;
+    border-top: solid;
+    border-top-width: 1px;
+    padding-top: .2em;
+}
+
+.top-spacing-1em
+{
+    margin-top: 1em;
+}
+
+.see-more
+{
+}
+
+.top-social-icon
+{
+    background-color: rgba(0, 0, 0, 0);
+}
+
+.top-spacing-2em
+{
+    margin-top: -2em;
+}
+
+.less-margin
+{
+    padding-bottom: -10px;
+}
+
+.bottom-spacing-2em
+{
+}
+
+.how-much
+{
+    text-align: center;
+}
+
